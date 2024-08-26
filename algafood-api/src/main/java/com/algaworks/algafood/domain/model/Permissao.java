@@ -1,4 +1,3 @@
-
 package com.algaworks.algafood.domain.model;
 
 import jakarta.persistence.Column;

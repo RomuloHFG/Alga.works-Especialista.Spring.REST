@@ -15,10 +15,17 @@
 	<description>API de delivery de comida.</description>
 	<url/>
 	<licenses>
-		<license/>
+		<license>
+			<name>Nome da licença</name>
+			<url>URL da licença</url>
+		</license>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<id>id-do-desenvolvedor</id>
+			<name>Nome do Desenvolvedor</name>
+			<email>Email do Desenvolvedor</email>
+		</developer>
 	</developers>
 	<scm>
 		<connection/>
@@ -75,8 +82,8 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-		<groupId>com.fasterxml.jackson.dataformat</groupId>
-		<artifactId>jackson-dataformat-xml</artifactId>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-xml</artifactId>
 		</dependency>
 	</dependencies>
 
