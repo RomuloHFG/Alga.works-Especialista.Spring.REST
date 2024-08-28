@@ -26,6 +26,10 @@ Este repositório contém o projeto desenvolvido durante o curso de Especialista
 - **Docker**: Containerização da aplicação.
 - **AWS**: Deploy em containers Docker na AWS.
 
+## Banco de Dados
+![Untitled](https://github.com/user-attachments/assets/4db597f4-3664-4051-a2ca-1f8b4b242e6c)
+
+
 ## Como Executar o Projeto
 
 ### Pré-requisitos
