@@ -27,7 +27,8 @@ Este repositório contém o projeto desenvolvido durante o curso de Especialista
 - **AWS**: Deploy em containers Docker na AWS.
 
 ## Banco de Dados
-![Untitled](https://github.com/user-attachments/assets/4db597f4-3664-4051-a2ca-1f8b4b242e6c)
+![Untitled](https://github.com/user-attachments/assets/67d1d096-2400-40b9-87eb-bc443e13a80e)
+
 
 
 ## Como Executar o Projeto
